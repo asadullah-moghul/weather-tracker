@@ -6,7 +6,8 @@ Driving long distances, over multiple days
 Driving through areas that are prone to rapidly changing conditions
 
 Deliverables: 
-Weather forecasted along your travel route, for your planned time of travel - single forecast generated when route/time info is entered
-Real time updates of forecasts while traveling
-Save “favorite” routes for frequent travel
-Ability for app to use GPS data and track route as well as the weather
+- Weather forecasted along your travel route, for your planned time of travel
+- single forecast generated when route/time info is entered
+- Real time updates of forecasts while traveling
+- Save “favorite” routes for frequent travel
+- Ability for app to use GPS data and track route as well as the weather
